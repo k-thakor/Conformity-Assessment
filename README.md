@@ -48,3 +48,9 @@ The frontend should now be running on http://localhost:3000.
 - Navigate to http://localhost:3000 in your web browser to access the compliance dashboard.
 - You will see the dashboard displaying the compliance metrics.
 - Click the "Refresh Data" button to fetch new data from the backend.
+
+- 
+
+https://github.com/user-attachments/assets/0fb44ebc-0f6a-458e-92c4-f79f93f7ec64
+
+
