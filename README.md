@@ -27,3 +27,24 @@ The **Conformity Dashboard** is part of an MVP for tracking user-specific compli
 ```bash
 git clone https://github.com/k-thakor/Conformity-Assessment.git
 cd Conformity-Assessment
+```
+### 2. Run Backend
+```bash
+cd backend
+npm install
+npm server.js
+```
+The backend should now be running on http://localhost:5000.
+
+### 3. Run Frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+The frontend should now be running on http://localhost:3000.
+
+## Usage
+- Navigate to http://localhost:3000 in your web browser to access the compliance dashboard.
+- You will see the dashboard displaying the compliance metrics.
+- Click the "Refresh Data" button to fetch new data from the backend.
